@@ -30,7 +30,7 @@
 <body>
     <header>
         <div class="container">
-            <div class="nome"><h1>SSTMS<h1/></div>
+            <div class="nome"><h1>SSTMS<h1/>
             <div class="menu">
                 <nav>
                    <p><a href="#">HISTÓRIA</a></p>
