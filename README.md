@@ -80,5 +80,8 @@
             <h2>DESENVOLVEDORES</h2>
             <p>Somos jovens estudantes do 1º do novo ensino médio, estudamos no Colégio Estadual Sapopema.
                 Nos juntamos para realizar o trabalho da componente curricular pensamento computacional, onde é abundado um tema extremamente importante, mas , este tema acaba não recebendo seu devido reconhecimento. </p>  
- </body>
+                     
+
+    
+</body>
 </html>
