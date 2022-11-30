@@ -1,3 +1,10 @@
+
+
+
+
+
+
+
 <!DOCTYPE html>
 <html lang="pt-br>
 <head>
@@ -23,7 +30,7 @@
 <body>
     <header>
         <div class="container">
-            <div class="nome"><h1>SSTMS</div>
+            <div class="nome"><h1>SSTMS<h1/></div>
             <div class="menu">
                 <nav>
                    <p><a href="#">HISTÓRIA</a></p>
